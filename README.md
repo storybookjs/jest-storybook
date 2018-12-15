@@ -1,2 +1,3 @@
-# storybook-jest
-Test storybook stories automagically using Jest. 🧙🏻‍♀️
+# jest-storybook
+
+Jest implementation for Storybook.

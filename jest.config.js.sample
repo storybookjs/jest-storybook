@@ -1,0 +1,7 @@
+module.exports = {
+  testMatch: ['**/*.stories.js'],
+  transform: {
+    '^.+\\.js$': '<rootDir>/storybook.jest.js',
+    '^.+\\.(js)$': 'babel-jest',
+  },
+};

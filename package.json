@@ -1,0 +1,28 @@
+{
+  "name": "jest-storybook",
+  "version": "1.0.0",
+  "description": "Jest implementation for Storybook",
+  "main": "jest.storybook.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/storybooks/storybook-jest.git"
+  },
+  "keywords": [
+    "jest",
+    "storybook"
+  ],
+  "author": "evexoio (Abdullah Samman)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/storybooks/storybook-jest/issues"
+  },
+  "homepage": "https://github.com/storybooks/storybook-jest/blob/master/README.md",
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-preset-jest": "^23.2.0",
+    "falafel": "^2.1.0"
+  }
+}
